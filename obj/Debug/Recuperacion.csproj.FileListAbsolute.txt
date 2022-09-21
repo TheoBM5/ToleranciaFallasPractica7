@@ -1,0 +1,12 @@
+C:\Users\teodo\source\repos\Recuperacion\Recuperacion\bin\Debug\Recuperacion.exe.config
+C:\Users\teodo\source\repos\Recuperacion\Recuperacion\bin\Debug\Recuperacion.exe
+C:\Users\teodo\source\repos\Recuperacion\Recuperacion\bin\Debug\Recuperacion.pdb
+C:\Users\teodo\source\repos\Recuperacion\Recuperacion\obj\Debug\Recuperacion.csproj.AssemblyReference.cache
+C:\Users\teodo\source\repos\Recuperacion\Recuperacion\obj\Debug\Recuperacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\teodo\source\repos\Recuperacion\Recuperacion\obj\Debug\Recuperacion.Form1.resources
+C:\Users\teodo\source\repos\Recuperacion\Recuperacion\obj\Debug\Recuperacion.Properties.Resources.resources
+C:\Users\teodo\source\repos\Recuperacion\Recuperacion\obj\Debug\Recuperacion.csproj.GenerateResource.cache
+C:\Users\teodo\source\repos\Recuperacion\Recuperacion\obj\Debug\Recuperacion.csproj.CoreCompileInputs.cache
+C:\Users\teodo\source\repos\Recuperacion\Recuperacion\obj\Debug\Recuperacion.exe
+C:\Users\teodo\source\repos\Recuperacion\Recuperacion\obj\Debug\Recuperacion.pdb
+C:\Users\teodo\source\repos\Recuperacion\Recuperacion\obj\Debug\Recuperacion.Form2.resources
